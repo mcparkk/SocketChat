@@ -143,9 +143,9 @@ namespace ChatTest {
 		e->Handled = true;
 	}
 
-			 // 버튼을 클릭하면 아이피설정, 비동기 실행 , 포트 : 2016
+			 // 버튼을 클릭하면 아이피설정, 비동기 실행 , 포트 : 2019
 	private: System::Void BtnStart_Click(System::Object^ sender, System::EventArgs^ e) {
-		IP = gcnew IPEndPoint(IPAddress::Parse(txbAddress->Text), 2016);
+		IP = gcnew IPEndPoint(IPAddress::Parse(txbAddress->Text), 2019);
 		backgroundWorker->WorkerSupportsCancellation = true;
 		backgroundWorker->RunWorkerAsync();
 	}

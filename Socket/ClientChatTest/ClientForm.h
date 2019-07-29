@@ -236,7 +236,7 @@ namespace ClientChatTest {
 
 	private: System::Void BtnServerEnter_Click(System::Object^ sender, System::EventArgs^ e) {
 		try {
-			IP = gcnew IPEndPoint(IPAddress::Parse(txbIPAddress->Text), 2016);
+			IP = gcnew IPEndPoint(IPAddress::Parse(txbIPAddress->Text), 2019);
 			client->Connect(IP);
 
 			// backgroundWorker1 이벤트 실행
