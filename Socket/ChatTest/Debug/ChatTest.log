@@ -1,0 +1,6 @@
+﻿  ChatForm.cpp
+C:\Users\kccistc\Desktop\SocketChat\Socket\ChatTest\ChatForm.h(204,24): warning C4101:  'exception' :참조되지 않은 지역 변수입니다.
+C:\Users\kccistc\Desktop\SocketChat\Socket\ChatTest\ChatForm.h(211,22): warning C4101:  'exception' :참조되지 않은 지역 변수입니다.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  ChatForm.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  ChatTest.vcxproj -> C:\Users\kccistc\Desktop\SocketChat\Socket\Debug\ServerChatTest.exe

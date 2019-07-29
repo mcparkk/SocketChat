@@ -1,0 +1,4 @@
+﻿  ChatForm.cpp
+C:\Users\kccistc\Desktop\HwaChat\minchoel_opencvTest\ChatTest\ChatForm.h(203,24): warning C4101:  'exception' :참조되지 않은 지역 변수입니다.
+C:\Users\kccistc\Desktop\HwaChat\minchoel_opencvTest\ChatTest\ChatForm.h(210,22): warning C4101:  'exception' :참조되지 않은 지역 변수입니다.
+  ChatTest.vcxproj -> C:\Users\kccistc\Desktop\HwaChat\minchoel_opencvTest\x64\Release\ServerChatTest.exe
